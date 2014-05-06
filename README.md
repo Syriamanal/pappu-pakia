@@ -6,6 +6,7 @@ This HTML5 Game (Pappu Pakia) has been happily made for the
 [Github Game Off 2012](https://github.com/blog/1303-github-game-off).
 
 **[PLAY THE GAME HERE](http://khele.in/pappu-pakia/)**
+Or Test the live demo here!: (http://syriamanal.github.io/pappu-pakia)
 
 ## Credits
 
